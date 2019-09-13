@@ -17,3 +17,7 @@ h1 {
 .menubar {
     border: 2px solid rgb(0, 0, 0);
 }
+
+.menuoption {
+    float: left;
+}
