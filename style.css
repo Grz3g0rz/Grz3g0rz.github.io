@@ -1,0 +1,19 @@
+@import url('https://fonts.googleapis.com/css?family=Livvic&display=swap');
+
+html, body, h1 {
+    font-family:  'Livvic', sans-serif;
+}
+
+.page-head {
+    width: 600px;
+    margin: auto;
+    text-align: center;
+}
+
+h1 {
+    font-size: 2rem;
+}
+
+.menubar {
+    border: 2px solid rgb(0, 0, 0);
+}
